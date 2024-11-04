@@ -1,0 +1,1 @@
+http://localhost/shop2022-master/?p=admin
